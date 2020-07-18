@@ -8,7 +8,7 @@ class Config {
     const DB_HOST = '127.0.0.1';
     const DB_DATABASE = 'spigreen';
     CONST DB_USER = 'root';
-    const DB_PASS = 'ifmt2013';
+    const DB_PASS = '';
 
     const ERROR_CONTROLLER = 'ErrorController';
     const DEFAULT_ACTION = 'index';
